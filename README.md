@@ -16,7 +16,7 @@
 
 <br />
 <br />
-<br />
+
 
 <!-- <p><a href="https://www.linkedin.com/in/aravindmurgan/" rel="nofollow"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%; margin-right:50px;"></a>
 <a href="https://www.instagram.com/arvind_murgan/" rel="nofollow"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="max-width:100%; margin-right:50px;"></a>
@@ -28,7 +28,7 @@
 <br></p>
 
 <br />
-<br />
+
 
 ### Languages:
 
