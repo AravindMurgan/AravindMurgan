@@ -18,9 +18,9 @@
 <br />
 <br />
 
-<p><a href="https://www.linkedin.com/in/aravindmurgan/" rel="nofollow"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/arvind_murgan/" rel="nofollow"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="max-width:100%;"></a>
-<a href="https://www.facebook.com/arvind.cj.96/" rel="nofollow"><img height="30" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" style="max-width:100%;"></a>
+<p><a href="https://www.linkedin.com/in/aravindmurgan/" rel="nofollow"><img height="50" width="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%; margin-right:15px;"></a>
+<a href="https://www.instagram.com/arvind_murgan/" rel="nofollow"><img height="50" width="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="max-width:100%; margin-right:15px;"></a>
+<a href="https://www.facebook.com/arvind.cj.96/" rel="nofollow"><img height="50" width="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" style="max-width:100%; margin-right:15px;"></a>
 <br></p>
 
 <br />
