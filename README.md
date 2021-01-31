@@ -64,18 +64,15 @@
 </br>
 </br>
 
-<!-- 
+ <a href="#stats">
 <img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AravindMurgan&show_icons=true&theme=great-gatsby" />
 
 <img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMurgan&show_icons=true&theme=great-gatsby" />
-</br>
-</br>
-</br>
-</br> -->
- <a href="#stats">
-<img align="center" alt="AravindMurgan's Github Stats" src="https://camo.githubusercontent.com/d2c25ed6a6db4de7ef25e25240b79325786d68c20b4a475da7a83303ae58e598/68747470733a2f2f67682d726561646d652d73746174732d6a72327a61666966362e76657263656c2e6170702f6170693f757365726e616d653d4b726973686e614d6f6f7274687931322673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=AravindMurgan&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" style="max-width:100%;">
+</a>
+ <!-- <a href="#stats">
+<img align="center" alt="AravindMurgan's Github Stats" data-canonical-src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=AravindMurgan&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" style="max-width:100%;">
 </a>
 <a href="#stats">
 <img align="center" alt="AravindMurgan's top languages" src="https://camo.githubusercontent.com/e2c4f6fca3d2635553d1947fb8c65c656368b5ee260c2a3832041e686bc5c646/68747470733a2f2f67682d726561646d652d73746174732d6a72327a61666966362e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b726973686e614d6f6f727468793132266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e69676874" data-canonical-src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=AravindMurgan&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" style="max-width:100%;">
-</a>
+</a> -->
 
