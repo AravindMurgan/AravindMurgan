@@ -35,10 +35,11 @@
 ### Tools:
 
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style = "max-width:100%;" /> 
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style = "max-width:100%;" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style = "max-width:100%;" />
+<img align="left" alt="npm" width="50px" src="https://camo.githubusercontent.com/1293c7d8a99e4f28dd93a169d36badb926494903099d9b90e0876c2e753d2eaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e706d6a732f6e706d6a732d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" style="max-width:100%;">
 
 
----
+
 
 </br>
 </br>
