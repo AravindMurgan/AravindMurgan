@@ -67,5 +67,5 @@
 
 <img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AravindMurgan&show_icons=true&theme=dark" />
 
-<img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMurgan" />
+<img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMurgan&show_icons=true&theme=dark" />
 
