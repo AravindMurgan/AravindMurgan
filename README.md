@@ -3,12 +3,12 @@
 
 
 
-## I'm a Front End Developer!!
+## I'm a UI Developer!!
 
 - 💯  Faith! Creator of miracles, so always have it your side.
-- 🌱 I’m currently learning React.js 😇
+- 🌱 I’m currently learning Next.js 😇
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Master Front End Development
+- 🥅 2021 Goals: Next.js , Reacting Testing , Microfrontend , tailwind , etc!
 - ⚡ Fun fact: I love to be in gym all day 😝
 - 💬 Ask me about anything here...
 
