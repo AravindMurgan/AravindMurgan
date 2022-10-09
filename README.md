@@ -14,7 +14,7 @@ further.
 <h4>Nike-Clone</h4>
 - Build soley on tailwind with responsive design.
 <a href="https://nikeclone2022.netlify.app/" rel="nofollow">Link to demo</a>
-
+<br/>
 - 💯  Faith! Creator of miracles, so always have it your side.
 - 🌱 I’m currently learning Next.js 😇
 - 👯 I’m looking to collaborate with other content creators
