@@ -1,9 +1,16 @@
 ### Hi there, I'm Aravind 👋
-
-
-
-
 ## I'm a UI Developer!!
+
+My personal projects:
+ - GitHub Finder
+React app to search Github profiles. This app uses the Context API
+along with the useContext and useReducer hooks for state
+management. <a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
+ - LinkedIn Clone
+built linkedIn_clone using REACT_REDUX_FIREBASE.
+further. <a href="https://linkedin-react-redux-firebase.web.app/" >Link to demo</a>
+
+
 
 - 💯  Faith! Creator of miracles, so always have it your side.
 - 🌱 I’m currently learning Next.js 😇
