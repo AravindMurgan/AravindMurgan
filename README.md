@@ -2,8 +2,10 @@
 ## I'm a UI Developer!!
 
 My personal projects:
-	<h6>Github Finder</h6>
-<br/>
+	<h3>Github Finder</h3>
+- React app to search Github profiles. This app uses the Context API
+along with the useContext and useReducer hooks for state 
+management.
 <p> React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state 
 management.</p>
