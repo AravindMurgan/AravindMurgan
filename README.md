@@ -6,10 +6,12 @@ My personal projects:
 - React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state 
 management.
-<p> React app to search Github profiles. This app uses the Context API
+<span>
+	<p> React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state 
 management.</p>
 <a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
+</span>
  ###- LinkedIn Clone
 built linkedIn_clone using REACT_REDUX_FIREBASE.
 further. <a href="https://linkedin-react-redux-firebase.web.app/" >Link to demo</a>
