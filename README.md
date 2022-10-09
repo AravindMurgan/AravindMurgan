@@ -3,8 +3,10 @@
 
 My personal projects:
  ###- GitHub Finder
-React app to search Github profiles. This app uses the Context API
+<div>
+ React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state
+</div>
 management. <a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
  ###- LinkedIn Clone
 built linkedIn_clone using REACT_REDUX_FIREBASE.
