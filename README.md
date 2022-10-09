@@ -1,22 +1,19 @@
 ### Hi there, I'm Aravind 👋
 ## I'm a UI Developer!!
 
-## My personal projects:
+### My personal projects:
 <h4>Github Finder</h4>
 - React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state 
 management.
 <a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
-<h3>LinkedIn Clone</h3>
-- React app to search Github profiles. This app uses the Context API
-along with the useContext and useReducer hooks for state 
-management.
-<a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
-<h3>Github Finder</h3>
-- React app to search Github profiles. This app uses the Context API
-along with the useContext and useReducer hooks for state 
-management.
-<a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
+<h4>LinkedIn Clone</h4>
+- built linkedIn_clone using REACT_REDUX_FIREBASE ,scaling it
+further.
+<a href="https://linkedin-react-redux-firebase.web.app/" rel="nofollow">Link to demo</a>
+<h4>Nike-Cloner</h4>
+- Build soley on tailwind with responsive design.
+<a href="https://nikeclone2022.netlify.app/" rel="nofollow">Link to demo</a>
 
 
 <span>
