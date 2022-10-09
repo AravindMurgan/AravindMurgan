@@ -2,12 +2,12 @@
 ## I'm a UI Developer!!
 
 ## My personal projects:
-<h3>Github Finder</h3>
+<h4>Github Finder</h4>
 - React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state 
 management.
 <a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
-<h3>Github Finder</h3>
+<h3>LinkedIn Clone</h3>
 - React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state 
 management.
