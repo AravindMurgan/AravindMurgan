@@ -2,11 +2,11 @@
 ## I'm a UI Developer!!
 
 My personal projects:
- - GitHub Finder
+ ###- GitHub Finder
 React app to search Github profiles. This app uses the Context API
 along with the useContext and useReducer hooks for state
 management. <a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
- - LinkedIn Clone
+ ###- LinkedIn Clone
 built linkedIn_clone using REACT_REDUX_FIREBASE.
 further. <a href="https://linkedin-react-redux-firebase.web.app/" >Link to demo</a>
 
