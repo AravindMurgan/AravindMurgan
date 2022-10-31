@@ -15,6 +15,12 @@ further.
 - Build soley on tailwind with responsive design.
 <a href="https://nikeclone2022.netlify.app/" rel="nofollow">Link to demo</a>
 
+<h4>DJ-website</h4>
+- Built on next js ,with strapi@headless cms with authentication, pages generated both from client and server side
+using SSR.
+<a href="https://djwebsitenextjs.vercel.app/account/login" rel="nofollow">Link to demo</a>
+
+
 - 💯  Faith! Creator of miracles, so always have it your side.
 - 🌱 I’m currently learning Next.js 😇
 - 👯 I’m looking to collaborate with other content creators
