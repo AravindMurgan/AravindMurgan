@@ -1,5 +1,5 @@
 ### Hi there, I'm Aravind 👋
-## I'm a UI Developer!!
+## I am a Frontend Engineer currently pursuing a master's degree at Swansea University in Swansea, UK!!
 
 ### My personal projects:
 <h4>Github Finder</h4>
@@ -22,9 +22,9 @@ using SSR.
 
 
 - 💯  Faith! Creator of miracles, so always have it your side.
-- 🌱 I’m currently learning Next.js 😇
+- 🌱 I am presently enhancing my proficiency in performance and optimization for React and Next.js. 😇
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Solve 150+ leetcode problems, learn system design , build products using micro frontend!
+- 🥅 2024 Goals: Enhance my skills as a frontend engineer beyond 2023 by focusing on performance improvement, undertaking personal projects, and actively contributing to open-source projects!
 - ⚡ Fun fact: I love to be in gym all day 😝
 - 💬 Ask me about anything here...
 
