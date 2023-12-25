@@ -52,10 +52,13 @@ using SSR.
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style = "max-width:100%;" /> 
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  style = "max-width:100%;" />
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style = "max-width:100%;" />
+<img align="left" alt="TypeScript" width="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style = "max-width:100%;" /> 
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style = "max-width:100%;"/>
+<img align="left" alt="Node JS" width="100px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"  style = "max-width:100%;"/>
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style = "max-width:100%;" /> 
 <img align="left" alt="MySQL" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  style = "max-width:100%;"/>
 <img align="left" alt="Java" width="100px" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" style = "max-width:100%;" /> 
+
 
 </br>
 </br>
@@ -64,6 +67,9 @@ using SSR.
 
 
 ### Tools:
+<img align="left" alt="Tailwind CSS" width="50px"  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style = "max-width:100%;" />
+<img align="left" alt="Mongo DB" width="100px"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" style = "max-width:100%;" />
+<img align="left" alt="Next JS" width="50px"  src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" style = "max-width:100%;" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style = "max-width:100%;" />
 <img align="left" alt="SQL" width="50px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" style = "max-width:100%;" /> 
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style = "max-width:100%;" /> 
