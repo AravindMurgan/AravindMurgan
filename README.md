@@ -1,5 +1,6 @@
-### Hi there, I'm Aravind 👋
-## I am a Frontend Engineer currently pursuing a master's degree at Swansea University in Swansea, UK!!
+### Hi there, I'm Aravind 👋 from Swansea, United Kingdom.
+
+## I am a Frontend Engineer currently pursuing a master's degree at Swansea University while working as a web developer intern in Swansea, UK!
 
 ### My personal projects:
 <h4>Github Finder</h4>
