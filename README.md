@@ -1,102 +1,37 @@
-### Hi there, I'm Aravind 👋 from Swansea, United Kingdom.
+<h1 align="center">Hi 👋, I'm Aravind Murugan</h1>
+<h3 align="center">A passionate frontend engineer living in united kingdom</h3>
 
-## I am a Frontend Engineer currently pursuing a master's degree at Swansea University while working as a web developer intern in Swansea, UK!
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AravindMurgan&label=Profile%20views&color=0e75b6&style=flat" alt="aravind" /> </p> -->
 
-### My personal projects:
-<h4>Github Finder</h4>
-- React app to search Github profiles. This app uses the Context API
-along with the useContext and useReducer hooks for state 
-management.
-<a href="https://githubrepofinder.netlify.app/" rel="nofollow">Link to demo</a>
-<h4>LinkedIn Clone</h4>
-- built linkedIn_clone using REACT_REDUX_FIREBASE ,scaling it
-further.
-<a href="https://linkedin-react-redux-firebase.web.app/" rel="nofollow">Link to demo</a>
-<h4>Nike-Clone</h4>
-- Build soley on tailwind with responsive design.
-<a href="https://nikeclone2022.netlify.app/" rel="nofollow">Link to demo</a>
-
-<h4>DJ-website</h4>
-- Built on next js ,with strapi@headless cms with authentication, pages generated both from client and server side
-using SSR.
-<a href="https://djwebsitenextjs.vercel.app/account/login" rel="nofollow">Link to demo</a>
-
-
-- 💯  Faith! Creator of miracles, so always have it your side.
-- 🌱 I am presently enhancing my proficiency in performance and optimization for React and Next.js. 😇
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Enhance my skills as a frontend engineer beyond 2023 by focusing on performance improvement, undertaking personal projects, and actively contributing to open-source projects!
-- ⚡ Fun fact: I love to be in gym all day 😝
-- 💬 Ask me about anything here...
+<p align="center">
+   <a href="https://www.linkedin.com/in/aravindmurgan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/aravindmurugan96/">
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/> 
+  </a>
+</p>
 
 
 
-<br />
-<br />
+- 🌱 I’m currently learning **C#**
 
+- 💬 Ask me about **React and related technologies.**
 
-<!-- <p><a href="https://www.linkedin.com/in/aravindmurgan/" rel="nofollow"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width:100%; margin-right:50px;"></a>
-<a href="https://www.instagram.com/arvind_murgan/" rel="nofollow"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" style="max-width:100%; margin-right:50px;"></a>
-<a href="https://www.facebook.com/arvind.cj.96/" rel="nofollow"><img height="40" width="40" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" style="max-width:100%; margin-right:50px;"></a>
-<br></p> -->
-<p><a href="https://www.linkedin.com/in/aravindmurgan/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/arvind_murgan/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://www.facebook.com/arvind.cj.96/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/c4c06a397ab9bdae3a07af592524a7fc3b8ddc91c161332951b12ce5f5079959/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373746322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width:100%;"></a>
-<br></p>
+- 📫 How to reach me **mi.arvindmurugan@gmail.com**
 
-<br />
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Languages:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AravindMurgan&show_icons=true&locale=en&layout=compact&hide=html,python,CSS" alt="aravind-apm" /></p>
 
-
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style = "max-width:100%;" /> 
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  style = "max-width:100%;" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  style = "max-width:100%;" />
-<img align="left" alt="TypeScript" width="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style = "max-width:100%;" /> 
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  style = "max-width:100%;"/>
-<img align="left" alt="Node JS" width="100px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"  style = "max-width:100%;"/>
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style = "max-width:100%;" /> 
-<img align="left" alt="MySQL" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  style = "max-width:100%;"/>
-<img align="left" alt="Java" width="100px" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" style = "max-width:100%;" /> 
-
-
-</br>
-</br>
-<br />
-<br />
-
-
-### Tools:
-<img align="left" alt="Tailwind CSS" width="50px"  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style = "max-width:100%;" />
-<img align="left" alt="Mongo DB" width="100px"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" style = "max-width:100%;" />
-<img align="left" alt="Next JS" width="50px"  src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" style = "max-width:100%;" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style = "max-width:100%;" />
-<img align="left" alt="SQL" width="50px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" style = "max-width:100%;" /> 
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style = "max-width:100%;" /> 
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style = "max-width:100%;" />
-<img align="left" alt="npm" width="40px" src="https://camo.githubusercontent.com/1293c7d8a99e4f28dd93a169d36badb926494903099d9b90e0876c2e753d2eaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e706d6a732f6e706d6a732d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" style="max-width:100%;">
-<img align="left" alt="babel" width="40px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" style="max-width:100%;">
-<img align="left" alt="jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"  style="max-width:100%;">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AravindMurgan&show_icons=true&locale=en&rank_icon=github" alt="aravind" /></p>
 
 
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
- <a href="#stats">
-<img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AravindMurgan&show_icons=true&theme=great-gatsby" />
-
-<img align="left" alt="Aravind's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravindMurgan&show_icons=true&theme=great-gatsby" />
-</a>
- <!-- <a href="#stats">
-<img align="center" alt="AravindMurgan's Github Stats" data-canonical-src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=AravindMurgan&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" style="max-width:100%;">
-</a>
-<a href="#stats">
-<img align="center" alt="AravindMurgan's top languages" src="https://camo.githubusercontent.com/e2c4f6fca3d2635553d1947fb8c65c656368b5ee260c2a3832041e686bc5c646/68747470733a2f2f67682d726561646d652d73746174732d6a72327a61666966362e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4b726973686e614d6f6f727468793132266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e69676874" data-canonical-src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=AravindMurgan&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" style="max-width:100%;">
-</a> -->
+<div align="center">
 
