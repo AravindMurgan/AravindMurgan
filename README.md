@@ -14,7 +14,10 @@
 </p>
 
 
-
+- Solved 150+ problems on leetcode - <a href="https://leetcode.com/u/aravindmurugan96/">
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/> 
+  </a>
+  
 - 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **React and related technologies.**
