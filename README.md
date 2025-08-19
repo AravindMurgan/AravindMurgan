@@ -14,7 +14,7 @@
 </p>
 
 
--- 📊 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/aravindmurugan96/)  
+- 📊 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/aravindmurugan96/)  
   
 - 🌱 I’m currently learning **C#**
 
