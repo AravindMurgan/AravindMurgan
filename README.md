@@ -16,9 +16,6 @@
   <a href="https://leetcode.com/u/aravindmurugan96/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/> 
   </a>
-   <a href="https://arvind-portfolio-site.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 
