@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aravind Murugan</h1>
 <h3 align="center">A passionate frontend engineer living in united kingdom</h3>
+<h3 align="center">
+  <a href="https://arvind-portfolio-site.netlify.app/" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
+</h3>
 
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AravindMurgan&label=Profile%20views&color=0e75b6&style=flat" alt="aravind" /> </p> -->
@@ -11,10 +16,7 @@
   <a href="https://leetcode.com/u/aravindmurugan96/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/> 
   </a>
-
-</p>
-   <p align="center">
-  <a href="https://arvind-portfolio-site.netlify.app" target="_blank">
+   <a href="https://arvind-portfolio-site.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
