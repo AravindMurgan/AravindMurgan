@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind Murugan</h1>
-<h3 align="center">A passionate frontend engineer living in united kingdom</h3>
+<h3 align="center">A passionate AI full stack/frontend engineer living in united kingdom</h3>
 <h3 align="center">
   <a href="https://arvind-portfolio-site.netlify.app/" target="_blank">
     🌐 Visit My Portfolio
